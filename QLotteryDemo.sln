@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QLotteryDemo.Library", "QLotteryDemo.Library\QLotteryDemo.Library.csproj", "{DB42EC4A-49B1-4BA0-BBA5-6FE5209DD96D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QLotteryDemo.API", "QLotteryDemo.API\QLotteryDemo.API.csproj", "{5E7EDAA3-FF30-4CF7-94A9-A4D2951541B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB42EC4A-49B1-4BA0-BBA5-6FE5209DD96D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB42EC4A-49B1-4BA0-BBA5-6FE5209DD96D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB42EC4A-49B1-4BA0-BBA5-6FE5209DD96D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB42EC4A-49B1-4BA0-BBA5-6FE5209DD96D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E7EDAA3-FF30-4CF7-94A9-A4D2951541B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E7EDAA3-FF30-4CF7-94A9-A4D2951541B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E7EDAA3-FF30-4CF7-94A9-A4D2951541B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E7EDAA3-FF30-4CF7-94A9-A4D2951541B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {273DB758-FE9C-41F4-ACBB-D729CBA55908}
+	EndGlobalSection
+EndGlobal
